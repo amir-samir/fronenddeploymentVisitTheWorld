@@ -1,0 +1,2058 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"/>
+
+<title>Travel Stories</title>
+
+
+  
+<!-- Metatags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Travel Stories">
+<meta name="twitter:title" content="Travel Stories">
+
+<meta name="description" content="I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.">
+<meta property="og:description" content="I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.">
+<meta name="twitter:description" content="I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.">
+
+
+<meta property="og:image" content="https://podpage.imgix.net/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F580601%2F580601-1551837312659-6d3690b4d4c15.jpg?fill=blur&amp;fit=fill&amp;h=628&amp;w=1200&amp;s=0595208ae0d30998df25d1cb2b6b5d85">
+<meta name="twitter:image:src" content="https://podpage.imgix.net/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F580601%2F580601-1551837312659-6d3690b4d4c15.jpg?fill=blur&amp;fit=fill&amp;h=628&amp;w=1200&amp;s=0595208ae0d30998df25d1cb2b6b5d85">
+
+<meta property="og:site_name" content="Travel Stories">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:url" content="https://www.podpage.com/travel-stories/">
+<meta name="twitter:domain" content="https://www.podpage.com/travel-stories/">
+
+
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<!-- Icons -->
+
+  <script src="https://kit.fontawesome.com/d0a5b46879.js" crossorigin="anonymous"></script>
+
+
+
+<!-- Plugins -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hamburgers/1.1.3/hamburgers.min.css" type="text/css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.14/mediaelementplayer.min.css" />
+
+<link rel="alternate" type="application/rss+xml" title="Travel Stories" href="https://anchor.fm/s/40e83c4/podcast/rss" />
+
+
+
+  
+    <link id="stylesheet" type="text/css" href="https://redwood-labs.s3.amazonaws.com/theme/css/boomerang.min.css" rel="stylesheet" media="screen">
+  
+
+
+<!-- Custom styles -->
+<link type="text/css" href="https://redwood-labs.s3.amazonaws.com/theme/css/custom-style.css" rel="stylesheet">
+<link type="text/css" href="https://redwood-labs.s3.amazonaws.com/showpage/static/identity/css/custom-project-styles.css?v=14" rel="stylesheet">
+
+<!-- Favicon -->
+<link href="https://redwood-labs.s3.amazonaws.com/showpage/static/identity/images/favicon.png" rel="icon" type="image/png">
+
+<!-- Apple Icon -->
+<link href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" rel="apple-touch-icon">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://www.podpage.com/travel-stories/" />
+
+<meta name="apple-itunes-app" content="app-id=1384563300">
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&amp;display=swap" rel="stylesheet">
+
+    <style type="text/css">
+        body, .heading, .display, .section-title .section-title-inner, .btn, h1,h2,h3,h4,h5,h6 {
+            font-family: 'DM Sans', sans-serif !important;
+        }
+    </style>
+
+
+
+
+  <style type="text/css">
+      
+        a, a:hover,
+        .link,
+        .link:hover, .link--style-1:hover,
+        .meta-category a, .meta-category a:hover {
+            color: #135FA9;
+        }
+        .c-base-1, .text-primary,
+        .btn-base-5,
+        .btn-link,
+        .heading:hover>a,
+        .link--style-2, .link--style-2:hover,
+        .navbar-aside .navbar-expand-lg .navbar-nav .nav-link:hover,
+        .navbar-aside .navbar-expand-lg .navbar-nav .nav-link:focus,
+        .navbar-aside .navbar-expand-lg .navbar-nav .show .nav-link,
+        .navbar-aside .navbar-expand-lg .navbar-nav .show .nav-link:hover,
+        .navbar-nav .dropdown-menu .dropdown-item:focus, .navbar-nav .dropdown-menu .dropdown-item:hover {
+            color: #135FA9 !important;
+        }
+        .btn-base-1, .btn-base-1:active, .btn-base-1.active, .btn-base-1:focus, .btn-base-1:hover, .btn-base-1.btn-outline:active, .btn-base-1.btn-outline:focus, .btn-base-1.btn-outline:hover {
+          background-color: #135FA9 !important;
+          border-color: #135FA9 !important;
+        }
+        .btn-base-1.btn-outline {
+          color: #135FA9 !important;
+          border-color: #135FA9 !important;
+        }
+        .bg-base-1,
+        .btn-back-to-top,
+        .bg-primary {
+          background-color: #135FA9 !important;
+        }
+
+        .pagination>.active .page-link, .pagination>.active .page-link:focus, .pagination>.active .page-link:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+          background-color: #135FA9 !important;
+          border-color: #135FA9 !important;
+          color: white !important;
+        }
+
+        .nav-link-active,
+        .navbar-nav .nav-link:focus, .navbar-nav .nav-link:hover {
+          background-color: #135FA9 !important;
+          border-color: #135FA9 !important;
+          color: white !important;
+          border-radius: 4px !important;
+        }
+
+        .navbar-aside .navbar-nav .nav-link:focus, .navbar-aside  .navbar-nav .nav-link:hover {
+          background-color: transparent !important;
+          border-color: transparent !important;
+        }
+
+
+        .btn-base-1:active, .btn-base-1.active, .btn-base-1:focus, .btn-base-1:hover, .btn-base-1.btn-outline:active, .btn-base-1.btn-outline:focus, .btn-base-1.btn-outline:hover,
+        .btn-base-4:active, .btn-base-4.active, .btn-base-4:focus, .btn-base-4:hover, .btn-base-4.btn-outline:active, .btn-base-4.btn-outline:focus, .btn-base-4.btn-outline:hover,
+        .link--style-1:hover,
+        .meta-category a:hover,
+        .link--style-2:hover {
+          opacity: .8;
+        }
+
+    
+
+  .block-post,
+  .block-body,
+  .about-page-content img {
+    max-width: 100%;
+  }
+
+  </style>
+
+
+
+
+
+
+  
+
+  
+<!-- Podcast Custom Design -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&family=Open+Sans:wght@400;500;600;700;800&display=swap">
+
+<style type="text/css">
+
+    :root {
+      --primary-color: #1D1709;
+      --bg-color: #161616;
+      
+      
+      
+      --nav-bg-color: #1D1709;
+      
+      
+      
+    }
+
+    body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+    a {
+      font-family: inherit !important;
+    }
+    .body-wrap {
+        flex: 1;
+    }
+
+    
+      @media (min-width: 800px) {
+        .subscribe-page {
+            margin-top: -42px;
+            margin-bottom: -42px;
+        }
+      }
+    
+
+    
+        
+
+        
+          .heading, .display,
+          .show-page .navbar-brand, .btn,
+          .section-title .section-title-inner,
+          h1,h2,h3,h4,h5,h6 {
+              font-family: "Raleway" !important;
+          }
+        
+        
+          body, .navbar-nav .nav-link {
+              font-family: "Open Sans" !important;
+          }
+        
+     
+
+    
+            a, a:hover,
+            .link,
+            .link:hover, .link--style-1:hover,
+            .meta-category a, .meta-category a:hover,
+            ul.categories>li>a, ul.categories>li>a:hover {
+                color: var(--primary-color);
+            }
+
+            .c-base-1,
+            .heading:hover>a {
+                color: var(--primary-color) !important;
+            }
+
+            
+            .c-base-1, .text-primary,
+            .heading:hover>a,
+            .link--style-2, .link--style-2:hover {
+                color: var(--primary-color) !important;
+            }
+            
+
+            .btn-base-1, .btn-base-1:active, .btn-base-1.active, .btn-base-1:focus, .btn-base-1:hover,
+            .btn-base-1.btn-outline:active, .btn-base-1.btn-outline:focus, .btn-base-1.btn-outline:hover,
+            .tagcloud--style-1 a:hover {
+              background-color: var(--primary-color) !important;
+              border-color: var(--primary-color) !important;
+            }
+            .btn-base-1.btn-outline {
+              color: var(--primary-color) !important;
+              border-color: var(--primary-color) !important;
+            }
+            .btn-link, .btn-link:hover, .btn-link:active {
+              color: var(--primary-color) !important;
+            }
+
+            .pagination>.active .page-link, .pagination>.active .page-link:focus, .pagination>.active .page-link:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+              background-color: var(--primary-color) !important;
+              border-color: var(--primary-color) !important;
+              color: white !important;
+            }
+
+            .btn-back-to-top,
+            .navbar-nav .nav-link:focus,
+            .navbar-nav .nav-link:hover,
+            .navbar-inverse .navbar-nav .nav-link:hover,
+            .bg-base-1,
+            .navbar.bg-base-1 {
+              background-color: var(--primary-color) !important;
+              color: white !important;
+            }
+
+            .btn-base-1:active, .btn-base-1.active, .btn-base-1:focus, .btn-base-1:hover, .btn-base-1.btn-outline:active, .btn-base-1.btn-outline:focus, .btn-base-1.btn-outline:hover,
+            .link--style-1:hover,
+            .meta-category a:hover,
+            .link--style-2:hover {
+              opacity: .8;
+            }
+            
+              .navbar-dark .hamburger-inner, .navbar-dark .hamburger-inner:after, .navbar-dark .hamburger-inner:before, .navbar-dark .hamburger.is-active .hamburger-inner:after, .navbar-dark .hamburger.is-active .hamburger-inner:before, .navbar-dark .hamburger:hover:not(.is-active) .hamburger-inner, .navbar-dark .hamburger:hover:not(.is-active) .hamburger-inner:after, .navbar-dark .hamburger:hover:not(.is-active) .hamburger-inner:before,
+              .navbar-inverse .hamburger-inner, .navbar-inverse .hamburger-inner:after, .navbar-inverse .hamburger-inner:before {
+                background-color: var(--primary-color) !important;
+              }
+              @media (max-width: 991px) {
+                .navbar-inverse .navbar-nav .nav-link {
+                  color: var(--primary-color) !important;
+                }
+              }
+
+            
+    
+
+    
+
+    
+
+    
+      .heading, .heading>a, .display {
+        
+        font-weight: 600 !important;
+      }
+    
+
+    @media (max-width: 991px) {
+      .navbar-nav .nav-link {
+          border-bottom: none !important;
+      }
+    }
+
+    
+
+    .navbar-brand img.podcast-logo {
+      height: 50px !important;
+    }
+    @media (max-width: 991px) {
+      .navbar-brand img.podcast-logo {
+          height: auto !important;
+          max-height: 40px;
+          max-width: 100% !important;
+      }
+    }
+
+
+    
+    
+    .navbar-nav .nav-link,
+    #nav-cta .btn {
+      font-size: 0.875rem !important;
+      font-weight: 500 !important;
+      text-transform: capitalize !important;
+    }
+    
+
+    
+    
+
+  
+
+
+  
+  
+
+</style>
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id=G-R33VDC7K2P"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-R33VDC7K2P');
+    
+  </script>
+
+
+
+  
+
+  
+
+    
+
+  
+
+  
+
+
+
+
+</head>
+<body >
+
+
+
+
+
+    
+
+
+  
+    <!-- Preview Banner -->
+    <a href="/" class="floating-button floating-button-brand rounded z-depth-2 c-black bg-white border p-1" target="_blank">
+      <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/identity/images/favicon.png" height="16" class="rounded" alt="Podpage Logo"> <small class="strong-600">Made with Podpage</small>
+    </a>
+  
+
+
+
+  
+
+
+<!-- MAIN WRAPPER -->
+<div class="body-wrap show-page podcast-home-page">
+
+    
+
+    
+  
+
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
+                <div class="st-content-inner">
+
+                    
+  
+    
+
+
+
+
+<div class="header">
+    
+
+
+
+
+
+
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg
+        
+            bg-default
+            navbar-light
+        ">
+
+        <div class="container navbar-container">
+
+            
+
+
+
+    <h1 style="line-height: inherit; font-size: inherit;" class="m-0 p-0 navbar-brand-container">
+        
+        <a class="navbar-brand" href="/travel-stories/">
+        
+            
+                
+                    <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" class="" alt="Travel Stories Album Art">
+                
+                Travel Stories
+            
+        </a>
+    </h1>
+
+
+
+            <div class="d-inline-block ml-auto">
+                <!-- Navbar toggler  -->
+                <button class="navbar-toggler hamburger hamburger-js hamburger--spring" type="button" data-toggle="collapse" data-target="#navbar_main" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                    </span>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse align-items-center justify-content-end" id="navbar_main">
+                
+
+
+
+
+<ul class="navbar-nav ml-lg-auto align-items-center">
+
+    
+
+        <li class="nav-item dropdown " id="nav-episodes">
+
+            
+
+                
+
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                       Episodes
+                    </a>
+                    <div class="dropdown-menu py-0 px-0 overflow--hidden" aria-labelledby="navbar_1_dropdown_1">
+                        <div class="list-group rounded">
+
+                            
+                                
+
+                                    <a href="/travel-stories/episodes/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            All Episodes
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">182</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <h6 class="dropdown-header strong">By Category</h6>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/places-travel/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Places &amp; Travel
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">9</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/podcast/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Podcast
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">8</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/humor/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Humor
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">7</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/society-culture/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Society &amp; Culture
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">6</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/florida/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Florida
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">1</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/category/travel/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Travel
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">2</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <h6 class="dropdown-header strong">By Season</h6>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/episodes/season/1/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Season 1
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">159</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="/travel-stories/episodes/season/11/"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            Season 11
+                                            
+                                                <span class="badge badge-light badge-pill text-md strong-500">1</span>
+                                            
+
+                                        
+                                    </a>
+
+                                
+
+                            
+
+                        </div>
+                    </div>
+
+                
+            
+        </li>
+
+    
+
+        <li class="nav-item  " id="nav-about">
+
+            
+
+                
+
+                    <a href="/travel-stories/about/" class="nav-link">
+                        About
+                    </a>
+
+                
+            
+        </li>
+
+    
+
+        <li class="nav-item dropdown d-lg-none" id="nav-follow">
+
+            
+
+                
+
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                       Follow
+                    </a>
+                    <div class="dropdown-menu py-0 px-0 overflow--hidden" aria-labelledby="navbar_1_dropdown_3">
+                        <div class="list-group rounded">
+
+                            
+                                
+
+                                    <a href="https://podcasts.apple.com/us/podcast/id1384563300?mt=2&amp;ls=1"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/applepodcasts-icon%402x.png" alt="Apple Podcasts podcast player icon" width="20" height="20" class="mr-2">
+                                                    Apple Podcasts
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://open.spotify.com/show/2mme68Z4HHKT1PIPkfYA7c"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/spotify-icon%402x.png" alt="Spotify podcast player icon" width="20" height="20" class="mr-2">
+                                                    Spotify
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MGU4M2M0L3BvZGNhc3QvcnNz"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/googlepodcasts-icon%402x.png" alt="Google Podcasts podcast player icon" width="20" height="20" class="mr-2">
+                                                    Google Podcasts
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://overcast.fm/itunes1384563300"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/overcast-icon%402x.png" alt="Overcast podcast player icon" width="20" height="20" class="mr-2">
+                                                    Overcast
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://castro.fm/itunes/1384563300"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/castro-icon%402x.png" alt="Castro podcast player icon" width="20" height="20" class="mr-2">
+                                                    Castro
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://pca.st/1384563300"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/pocketcasts-icon%402x.png" alt="PocketCasts podcast player icon" width="20" height="20" class="mr-2">
+                                                    PocketCasts
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+                                
+
+                                    <a href="https://anchor.fm/s/40e83c4/podcast/rss"  class="list-group-item list-group-item-action d-flex new_window align-items-center justify-content-between">
+
+                                        
+
+                                            <div class="list-group-content">
+                                                <div class="list-group-heading mb-1">
+                                                    <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/rss-icon%402x.png" alt="RSS Feed podcast player icon" width="20" height="20" class="mr-2">
+                                                    RSS Feed
+                                                </div>
+                                            </div>
+
+                                        
+                                    </a>
+
+                                
+
+                            
+
+                        </div>
+                    </div>
+
+                
+            
+        </li>
+
+    
+
+        <li class="nav-item  " id="nav-twitter">
+
+            
+
+                <a href="https://twitter.com/SWF" target="_blank" rel="noreferrer" rel="noreferrer" class="nav-link px-lg-1">
+                    
+                        <i class="fab fa-fw fa-twitter mr-0" aria-label="Twitter logo"></i>
+                        <span class="d-lg-none">Twitter</span>
+                    
+                </a>
+
+            
+        </li>
+
+    
+
+        <li class="nav-item  " id="nav-instagram">
+
+            
+
+                <a href="https://www.instagram.com/back_and_gone_again_podcast/" target="_blank" rel="noreferrer" rel="noreferrer" class="nav-link px-lg-1">
+                    
+                        <i class="fab fa-fw fa-instagram mr-0" aria-label="Instagram logo"></i>
+                        <span class="d-lg-none">Instagram</span>
+                    
+                </a>
+
+            
+        </li>
+
+    
+
+        <li class="nav-item  " id="nav-facebook">
+
+            
+
+                <a href="https://www.facebook.com/BackAgainAndGone" target="_blank" rel="noreferrer" rel="noreferrer" class="nav-link px-lg-1">
+                    
+                        <i class="fab fa-fw fa-facebook mr-0" aria-label="Facebook logo"></i>
+                        <span class="d-lg-none">Facebook</span>
+                    
+                </a>
+
+            
+        </li>
+
+    
+
+    
+
+
+
+</ul>
+            </div>
+            
+
+
+
+
+
+
+    
+        <div class="dropdown d-none d-lg-inline-block ml-3" id="nav-cta">
+            <button class="btn btn-styled btn-sm btn-circle btn-base-1" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Follow
+            </button>
+
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+                
+                    
+                        <a class="dropdown-item" href="https://podcasts.apple.com/us/podcast/id1384563300?mt=2&amp;ls=1" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/applepodcasts-icon%402x.png" alt="Apple Podcasts podcast player icon" width="20" height="20" class="mr-2">
+                            Apple Podcasts
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://open.spotify.com/show/2mme68Z4HHKT1PIPkfYA7c" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/spotify-icon%402x.png" alt="Spotify podcast player icon" width="20" height="20" class="mr-2">
+                            Spotify
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MGU4M2M0L3BvZGNhc3QvcnNz" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/googlepodcasts-icon%402x.png" alt="Google Podcasts podcast player icon" width="20" height="20" class="mr-2">
+                            Google Podcasts
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://overcast.fm/itunes1384563300" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/overcast-icon%402x.png" alt="Overcast podcast player icon" width="20" height="20" class="mr-2">
+                            Overcast
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://castro.fm/itunes/1384563300" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/castro-icon%402x.png" alt="Castro podcast player icon" width="20" height="20" class="mr-2">
+                            Castro
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://pca.st/1384563300" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/pocketcasts-icon%402x.png" alt="PocketCasts podcast player icon" width="20" height="20" class="mr-2">
+                            PocketCasts
+                        </a>
+                    
+                
+                    
+                        <a class="dropdown-item" href="https://anchor.fm/s/40e83c4/podcast/rss" target="_blank" rel="noreferrer" >
+                            <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/rss-icon%402x.png" alt="RSS Feed podcast player icon" width="20" height="20" class="mr-2">
+                            RSS Feed
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+
+
+
+        </div>
+    </nav>
+</div>
+
+  
+
+
+                    
+
+                    
+    
+    
+        
+
+
+
+
+
+    <div class="slice holder-item holder-item-light has-bg-cover bg-size-cover py-0 py-sm-5 " style="background-image: url('https://podpage.imgix.net/https%3A%2F%2Fredwood-labs.s3.amazonaws.com%2Fshowpage%2Fstatic%2Fpublic%2Fimages%2Fcover-images%2Fcover4.jpg?fit=max&amp;w=2500&amp;s=a9787da337011d469c27e2e8c8b8d783'); ;">
+        <span class="mask mask-dark alpha-5"></span>
+        <div class="container d-flex align-items-center">
+            <div class="row row-cols-xs-spaced align-items-center">
+                <div class="col-lg-4 px-0 px-sm-3 pb-3 pb-sm-0">
+                    <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" alt="Travel Stories" class="img-fluid rounded img-center">
+                </div>
+
+                <div class="col-lg-8">
+                    <h1 class="c-white  strong-600  heading heading-xl  line-height-1_2  ">Travel Stories</h1>
+
+                    
+    <p class="c-white lead  mt-4   ">
+        I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.
+    </p>
+
+                    
+    
+<div class="row justify-content-center my-3" id="player-icons">
+    <div class="col-12">
+        
+            <a href="https://podcasts.apple.com/us/podcast/id1384563300?mt=2&amp;ls=1" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Apple Podcasts', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/applepodcasts-icon%402x.png" class="lazyload" alt="Apple Podcasts podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://open.spotify.com/show/2mme68Z4HHKT1PIPkfYA7c" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Spotify', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/spotify-icon%402x.png" class="lazyload" alt="Spotify podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MGU4M2M0L3BvZGNhc3QvcnNz" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Google Podcasts', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/googlepodcasts-icon%402x.png" class="lazyload" alt="Google Podcasts podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://overcast.fm/itunes1384563300" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Overcast', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/overcast-icon%402x.png" class="lazyload" alt="Overcast podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://castro.fm/itunes/1384563300" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Castro', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/castro-icon%402x.png" class="lazyload" alt="Castro podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://pca.st/1384563300" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'PocketCasts', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/pocketcasts-icon%402x.png" class="lazyload" alt="PocketCasts podcast player icon" width="40">
+                
+            </a>
+        
+            <a href="https://anchor.fm/s/40e83c4/podcast/rss" target="_blank" rel="noreferrer" class="mb-2 mr-2 d-inline-block"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'RSS Feed', 'event_label': 'Travel Stories',});">
+                
+                    <img data-src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/icons/rss-icon%402x.png" class="lazyload" alt="RSS Feed podcast player icon" width="40">
+                
+            </a>
+        
+    </div>
+</div>
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+    
+    
+    
+
+
+    
+
+
+
+    
+
+    
+
+
+<section class="slice sct-color-1 recent-episodes-section" id="episode-list">
+    <div class="container">
+
+        <div class="row cols-md-space cols-sm-space cols-xs-space">
+            <div class="col">
+
+                
+                    <div class="row align-items-center" id="recent-episodes-header">
+                        <div class="col-8">
+                            <h2 class="heading heading-3 strong-400 mb-3">Recent Episodes</h2>
+                        </div>
+                        
+                            <div class="col-4 text-right">
+                                <a href="/travel-stories/episodes/">View all <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        
+                    </div>
+                
+
+                <div class="row">
+
+                    
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-december-crazy-travel-roundup-travel-stories-episode-182/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The December Crazy Travel Roundup - Travel Stories, Episode 182" alt="The December Crazy Travel Roundup - Travel Stories, Episode 182 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Jan. 9, 2023
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-december-crazy-travel-roundup-travel-stories-episode-182/">The December Crazy Travel Roundup - Travel Stories, Episode 182</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the beautiful home office of Chateau' Relaxo, FL. If you want detailed show notes, links and pictures head over to po…</p>
+            </div>
+            <a href="/travel-stories/the-december-crazy-travel-roundup-travel-stories-episode-182/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-travel-year-in-review-the-2022-gift-guide-travel-stories-episode-181/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The Travel Year In Review &amp; The 2022 Gift Guide - Travel Stories, Episode 181" alt="The Travel Year In Review &amp; The 2022 Gift Guide - Travel Stories, Episode 181 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Dec. 20, 2022
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-travel-year-in-review-the-2022-gift-guide-travel-stories-episode-181/">The Travel Year In Review &amp; The 2022 Gift Guide - Travel Stories, Epi…</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the beautiful home office Chateau’Relaxo, FL. Around this time each year I add up the year's travel numbers, thank yo…</p>
+            </div>
+            <a href="/travel-stories/the-travel-year-in-review-the-2022-gift-guide-travel-stories-episode-181/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-november-crazy-travel-roundup-travel-stories-episode-180/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The November Crazy Travel Roundup - Travel Stories, Episode 180" alt="The November Crazy Travel Roundup - Travel Stories, Episode 180 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Dec. 14, 2022
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-november-crazy-travel-roundup-travel-stories-episode-180/">The November Crazy Travel Roundup - Travel Stories, Episode 180</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the beautiful home office Chateau’ Relaxo. FL. No trips since our last episode. This isn’t that odd when you take in …</p>
+            </div>
+            <a href="/travel-stories/the-november-crazy-travel-roundup-travel-stories-episode-180/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-road-trip-travel-stories-episode-179/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The Road Trip - Travel Stories, Episode 179" alt="The Road Trip - Travel Stories, Episode 179 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Nov. 23, 2022
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-road-trip-travel-stories-episode-179/">The Road Trip - Travel Stories, Episode 179</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the beautiful home office, Chateau' Relaxo, FL. One trip since our last episode, and it came in the form of a road tr…</p>
+            </div>
+            <a href="/travel-stories/the-road-trip-travel-stories-episode-179/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-october-crazy-travel-roundup-travel-stories-episode-178/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The October Crazy Travel Roundup - Travel Stories, Episode 178" alt="The October Crazy Travel Roundup - Travel Stories, Episode 178 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Nov. 7, 2022
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-october-crazy-travel-roundup-travel-stories-episode-178/">The October Crazy Travel Roundup - Travel Stories, Episode 178</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the home office of Chateau’ Relaxo. Sorry, no episodes since the September crazy travel roundup it’s been really busy…</p>
+            </div>
+            <a href="/travel-stories/the-october-crazy-travel-roundup-travel-stories-episode-178/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+                            
+
+
+    <div class="col-lg-6 mb-4 align-items-stretch">
+        
+
+<div class="card border mb-4">
+    <div class="block border-0">
+        
+            <div class="block-image">
+                <div class="view view-first">
+                    <a href="/travel-stories/the-september-crazy-travel-roundup-travel-stories-episode-177/">
+                        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg" title="The September Crazy Travel Roundup - Travel Stories, Episode 177" alt="The September Crazy Travel Roundup - Travel Stories, Episode 177 Image" class="w-100" >
+                    </a>
+                </div>
+            </div>
+        
+
+        <div class="p-4">
+            <div class="text-sm alpha-6 strong-300 mb-3">
+                Oct. 5, 2022
+            </div>
+                
+            <h3 class="heading heading-3 strong-500">
+                <a href="/travel-stories/the-september-crazy-travel-roundup-travel-stories-episode-177/">The September Crazy Travel Roundup - Travel Stories, Episode 177</a>
+            </h3>
+            <div class="excerpt">
+                <p class="mt-3 mb-0 line-height-1_8">Recorded in the beautiful home office of Chateau Relaxo, FL. One trip since the last episode. From O-Town to John Wayne airport f…</p>
+            </div>
+            <a href="/travel-stories/the-september-crazy-travel-roundup-travel-stories-episode-177/" class="link link-sm link--style-1 strong-600 mt-4">
+                <i class="far fa-long-arrow-right"></i>Episode page
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+                        
+
+                    
+
+                    
+                        <div class="col-12 my-4 text-center">
+                            
+                                <a href="/travel-stories/episodes/" class="btn btn-styled btn-base-1 btn-outline btn-circle btn-sm my-2">View all Episodes</a>
+                            
+                            
+                            
+                        </div>
+                    
+
+                </div>
+
+            </div>
+
+            
+                
+    
+        
+
+
+
+
+    <div class="col-lg-4 ml-auto">
+        <div class="sidebar" id="sidebar">
+
+            
+
+            
+
+
+            
+
+            
+
+            
+
+                <div class="sidebar-object mb-4 py-2">
+
+                    
+                        
+<div class="row justify-content-center">
+    
+        <div class="col-10 pb-3">
+            <a href="https://podcasts.apple.com/us/podcast/id1384563300?mt=2&amp;ls=1" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Apple Podcasts', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/applepodcasts-badge.svg" alt="Apple Podcasts podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://open.spotify.com/show/2mme68Z4HHKT1PIPkfYA7c" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Spotify', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/spotify-badge.svg" alt="Spotify podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MGU4M2M0L3BvZGNhc3QvcnNz" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Google Podcasts', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/googlepodcasts-badge.svg" alt="Google Podcasts podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://overcast.fm/itunes1384563300" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Overcast', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/overcast-badge.svg" alt="Overcast podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://castro.fm/itunes/1384563300" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'Castro', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/castro-badge.svg" alt="Castro podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://pca.st/1384563300" target="_blank" rel="noreferrer" class="mb-3 "
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'PocketCasts', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/pocketcasts-badge.svg" alt="PocketCasts podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+        <div class="col-10 pb-3">
+            <a href="https://anchor.fm/s/40e83c4/podcast/rss" target="_blank" rel="noreferrer" class="mb-3 copy-to-clipboard"
+            onclick="gtag('event', 'Player Link Click', {'event_category': 'RSS Feed', 'event_label': 'Travel Stories',});" >
+                
+                    
+                        <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/public/images/badges/rss-badge.svg" alt="RSS Feed podcast player badge"  width="100%">
+                    
+                
+            </a>
+        </div>
+    
+</div>
+
+                    
+                </div>
+
+                
+
+            
+
+
+
+            
+
+            
+
+                
+
+            
+
+            
+                <div class="sidebar-object">
+                    <div class="section-title section-title--style-1">
+                        <h3 class="section-title-inner text-lg strong-500">
+                            Browse episodes by category
+                        </h3>
+                    </div>
+
+                    <ul class="categories categories--style-2">
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/places-travel/">Places &amp; Travel <span class="badge badge-pill badge-light strong-700 text-lg ml-2">9</span></a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/podcast/">Podcast <span class="badge badge-pill badge-light strong-700 text-lg ml-2">8</span></a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/humor/">Humor <span class="badge badge-pill badge-light strong-700 text-lg ml-2">7</span></a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/society-culture/">Society &amp; Culture <span class="badge badge-pill badge-light strong-700 text-lg ml-2">6</span></a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/florida/">Florida <span class="badge badge-pill badge-light strong-700 text-lg ml-2">1</span></a>
+                                </li>
+                            
+                        
+                            
+                                <li>
+                                    <a href="/travel-stories/category/travel/">Travel <span class="badge badge-pill badge-light strong-700 text-lg ml-2">2</span></a>
+                                </li>
+                            
+                        
+                    </ul>
+                </div>
+            
+
+            
+
+
+            
+    <div class="sidebar-object mb-4">
+        <a class="twitter-timeline w-100" data-height="450" data-dnt="true"  href="https://twitter.com/SWF?ref_src=twsrc%5Etfw"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+
+
+            
+    <div class="sidebar-object mb-4">
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="gvb5ybYM"></script>
+
+
+        <div class="fb-page" data-href="https://www.facebook.com/BackAgainAndGone" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/BackAgainAndGone" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/BackAgainAndGone"></a></blockquote></div>
+    </div
+
+
+
+
+        </div>
+    </div>
+
+    
+
+
+            
+
+        </div>
+    </div>
+</section>
+
+
+
+    
+    
+
+
+
+
+    
+
+    
+
+
+    
+
+    
+    
+
+    
+
+
+
+                    
+
+                </div>
+            </div>
+        </div><!-- END: st-pusher -->
+    </div><!-- END: st-container -->
+</div><!-- END: body-wrap -->
+
+
+    
+      
+<footer id="footer" class="footer footer-inverse">
+
+    <div class="footer-top">
+        <div class="container">
+            <div class="row cols-xs-space cols-sm-space cols-md-space">
+                <div class="col-lg-12">
+                    
+                        <div class="heading strong-600 mb-2">Travel Stories</div>
+                    
+                </div>
+                <div class="col-lg-5">
+                    <p text-md line-height-1_8 class="alpha-6">
+                        I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.
+                    </p>
+
+                </div>
+
+                <div class="col-lg-2 ml-lg-auto col-6">
+                    <div class="col">
+                       <ul class="footer-links">
+                            
+
+<li>
+    <a href="/travel-stories/about/">About</a>
+</li>
+
+
+    
+        <li>
+            <a href="/travel-stories/episodes/">Episodes</a>
+        </li>
+    
+    
+    
+    
+
+                        </ul>
+                     </div>
+                </div>
+
+                <div class="col-lg-2 col-6">
+                    <div class="col">
+                        <ul class="footer-links">
+                            
+
+
+
+
+
+
+
+
+                         </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-2">
+                    <div class="col">
+                        
+
+                        <ul class="social-media social-media--style-1-v4">
+                            
+    
+        <li>
+            <a href="https://twitter.com/SWF" class="twitter" target="_blank" rel="noreferrer" alt="Twitter Icon" title="Link to Twitter" data-original-title="Twitter">
+                <i class="fab fa-twitter" aria-label="{link_info.name}} icon"></i>
+            </a>
+        </li>
+    
+
+    
+        <li>
+            <a href="https://www.instagram.com/back_and_gone_again_podcast/" class="instagram" target="_blank" rel="noreferrer" alt="Instagram Icon" title="Link to Instagram" data-original-title="Instagram">
+                <i class="fab fa-instagram" aria-label="{link_info.name}} icon"></i>
+            </a>
+        </li>
+    
+
+    
+        <li>
+            <a href="https://www.facebook.com/BackAgainAndGone" class="facebook" target="_blank" rel="noreferrer" alt="Facebook Icon" title="Link to Facebook" data-original-title="Facebook">
+                <i class="fab fa-facebook" aria-label="{link_info.name}} icon"></i>
+            </a>
+        </li>
+    
+
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="copyright mt-4 text-center text-md-left">
+                        
+<ul class="copy-links">
+    <li>
+        &copy; 2023 Travel Stories
+    </li>
+    
+    
+    <li>
+        <a href="https://www.podpage.com?ref=travel-stories&utm_source=travel-stories&utm_medium=link&utm_campaign=podpage_footer" target="_blank">Podcast Website by Podpage</a>
+    </li>
+    
+</ul>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</footer>
+
+    
+
+
+
+  
+
+
+
+<!-- SCRIPTS -->
+
+
+
+<!-- Core -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<script src="https://redwood-labs.s3.amazonaws.com/theme/js/slidebar/slidebar.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js"></script>
+
+<!-- Bootstrap Extensions -->
+<script src="https://redwood-labs.s3.amazonaws.com/theme/vendor/bootstrap-notify/bootstrap-growl.min.js"></script>
+<script src="https://redwood-labs.s3.amazonaws.com/theme/vendor/scrollpos-styler/scrollpos-styler.js"></script>
+
+
+
+  
+  
+  
+  
+    <!-- Begin Voicemail code -->
+<script type="text/javascript">
+(function(ping){
+var widget = ping.createElement('script'); widget.type = 'text/javascript'; widget.async = true;
+var scheme = ('https:' == document.location.protocol ? 'https://' : 'http://');
+widget.src = scheme + 'podpage-api.herokuapp.com/voicemail/widget/travel-stories.js';
+var s = ping.getElementsByTagName('script')[0]; s.parentNode.insertBefore(widget, s);
+})(document);
+</script>
+<!-- End Voicemail code -->
+
+
+
+  
+
+  
+
+
+  
+  
+
+  <!-- Plugins: Sorted A-Z -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.adaptive-backgrounds/1.0.3/jquery.adaptive-backgrounds.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.2/sticky-kit.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.8/jquery.viewportchecker.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script>
+
+  <!-- Isotope -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.14/mediaelement-and-player.min.js"></script>
+
+  <!-- Swiper JS Loader Rendering Fix -->
+  <script type="text/javascript">
+  window.addEventListener('pageshow', (event) => {
+    swiper = document.querySelector('.swiper-container')
+    if (swiper) {
+      swiper.classList.remove('swiper-hidden-on-loading')
+    }
+  });
+  </script>
+
+  <!-- Select2 search not autofocusing issue fix -->
+  <script type="text/javascript">
+  /*
+  * Hacky fix for a bug in select2 with jQuery 3.6.0's new nested-focus "protection"
+  * see: https://github.com/select2/select2/issues/5993
+  * see: https://github.com/jquery/jquery/issues/4382
+  *
+  * TODO: Recheck with the select2 GH issue and remove once this is fixed on their side
+  */
+  
+  $(document).on('select2:open', (e) => {
+    document.querySelector('.select2-search__field').focus();
+  });
+  </script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <!-- //Swiper JS Loader Rendering Fix -->
+
+  <script>
+    var modalDelay = parseInt('-1')
+    $(document).ready(function(){
+        var csrftoken = jQuery("[name=csrfmiddlewaretoken]").val();
+        function csrfSafeMethod(method) {
+            // these HTTP methods do not require CSRF protection
+            return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+        }
+
+        $.ajaxSetup({
+            beforeSend: function (xhr, settings) {
+            // if not safe, set csrftoken
+            if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                xhr.setRequestHeader("X-CSRFToken", csrftoken);
+            }
+            }
+        })
+
+        if (modalDelay >= 0) {
+            var podcastCookie = Cookies.get('12907188594297')
+            if (podcastCookie === undefined) {
+                Cookies.set('12907188594297', 'travel-stories', { expires: 30 })
+                setTimeout(function(){
+                    $('#emailModal').modal('show')
+                }, modalDelay * 1000);
+            }
+        }
+
+        var subscribeUrl = "/api/subscribe/"
+        $('#subscribeModalForm').submit(function(event){
+            event.preventDefault();
+            $('#subscribeModalInputFeedback').text("")
+            $('#subscribeModalInput').removeClass("is-invalid")
+            var first_name = $('#subscribeNameModalInput').val()
+            var email = $('#subscribeModalInput').val()
+            var payload = { 'email': email, 'first_name': first_name, 'podcast': '12907188594297' }
+            $.post(subscribeUrl, payload).done((res) => {
+                $('#emailModal').modal('hide')
+            }).fail((xhr, status, error) => {
+                var err = xhr.responseJSON
+
+                if(!err.errors) {
+                    return
+                }
+                
+                if('email' in err.errors) {
+                    $('#subscribeModalInput').addClass("is-invalid")
+                    $('#subscribeModalInputFeedback').text(err.errors.email.join(', '));
+                }
+            })
+        })
+    });
+</script>
+
+  <!-- Requires jQuery & bootstrap.js for tooltip -->
+<script type="text/javascript">
+var CopyToClipboard = function() {
+    this.defaultSelector = ".copy-to-clipboard";
+    this.copySuccessMessage = "Copied Successfully";
+    this.makeTooltip = function(elem, message) {
+        elem.setAttribute('data-toggle', 'tooltip');
+        elem.setAttribute('data-placement', "right");
+        elem.setAttribute('title', message);
+    
+        $(elem).tooltip({
+            trigger: 'manual'
+        });
+    },
+    this.showTooltip = function(elem) {
+        $(elem).tooltip('show');
+    },
+    this.removeTooltip = function(elem) {
+        $(elem).tooltip('hide');
+        elem.setAttribute('data-toggle', '');
+    },
+    this.copyTextToClipboard = function(elem, text) {
+
+        const self = this;
+
+        this.makeTooltip(elem, self.copySuccessMessage);
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        
+        elem.appendChild(textArea);
+    
+        textArea.focus();
+        textArea.select();
+    
+        try {
+            var successful = document.execCommand('copy');
+            var msg = successful ? 'successful' : 'unsuccessful';
+            this.showTooltip(elem);
+        } catch (err) {
+            console.log(err.message);
+        }
+    
+        elem.removeChild(textArea);
+    
+        setTimeout(function() {
+            self.removeTooltip(elem)
+        }, 2000);
+    },
+    this.init = function(selector) {
+        const self = this;
+
+        if(!selector || selector === undefined || selector === "") { 
+            selector = self.defaultSelector;
+        }
+        document.querySelectorAll(selector).forEach(function(elem) {
+            elem.addEventListener('click', function(event) {
+                event.preventDefault();
+                self.copyTextToClipboard(elem, this.href);
+            })
+        });
+    }
+}
+
+const copyToClipboardPlugin = new CopyToClipboard();
+copyToClipboardPlugin.copySuccessMessage = "Copied to Clipboard";
+copyToClipboardPlugin.init('.copy-to-clipboard');
+</script>
+
+  
+
+  
+
+
+
+
+<!-- Isotope -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.js"></script>
+
+
+<!-- App JS -->
+<script src="https://redwood-labs.s3.amazonaws.com/theme/js/boomerang.min.js"></script>
+
+
+
+
+
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e568b0812691c001289def3&product=inline-share-buttons" async="async"></script>
+
+<!-- Schema -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Travel Stories",
+        "url": "https://www.podpage.com/travel-stories/",
+        "description": "I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "name": "Travel Stories",
+          "target": "https://www.podpage.com/travel-stories/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "mainEntity":{
+            "@type": "PodcastSeries",
+            "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/580601/580601-1551837312659-6d3690b4d4c15.jpg",
+            "url": "https://www.podpage.com/travel-stories/",
+            "name": "Travel Stories",
+            "description": "I&#x27;m a road warrior who has spent the last 20+ years traveling the Southeast. Eating great food, drinking wonderful beer, and listening to amazing stories.",
+            "author": {
+                "@type": "Person",
+                "name": "None"
+           }
+        }
+    }
+</script>
+
+<script>
+    $(document).ready(function(){
+        var csrftoken = jQuery("[name=csrfmiddlewaretoken]").val();
+        function csrfSafeMethod(method) {
+            // these HTTP methods do not require CSRF protection
+            return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+        }
+
+        $.ajaxSetup({
+            beforeSend: function (xhr, settings) {
+                // if not safe, set csrftoken
+                if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                    xhr.setRequestHeader("X-CSRFToken", csrftoken);
+                }
+            }
+        })
+
+        //const subscribeCookie = Cookies.get('12907188594297-emailCollected')
+        const subscribeCookie = undefined
+        var subscribeUrl = "/api/subscribe/"
+
+        if (subscribeCookie !== undefined) {
+            $('#email-collect').hide()
+        } else {
+            $('#subscribeForm').submit(function (e) {
+                e.preventDefault();
+                $('#subscribeInputFeedback').text("")
+                $('#subscribeInput').removeClass("is-invalid")
+                var email = $('#subscribeInput').val()
+                var first_name = $('#subscribeNameInput').val()
+                var payload = { 'email': email, 'first_name': first_name, 'podcast': '12907188594297' }
+                $.post(subscribeUrl, payload).done((res) => {
+                    //Cookies.set('12907188594297-emailCollected', email)
+                    $('#email-collect form').hide();
+                    $('#email-confirm').fadeIn();
+                }).fail((xhr, status, error) => {
+                    var err = xhr.responseJSON
+
+                    if(!err.errors) {
+                        return
+                    }
+                    
+                    if('email' in err.errors) {
+                        $('#subscribeInput').addClass("is-invalid")
+                        $('#subscribeInputFeedback').text(err.errors.email.join(', '));
+                    }
+                })
+            });
+        }
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

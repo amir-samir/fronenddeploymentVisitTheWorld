@@ -1,0 +1,167 @@
+  @media screen and (max-width: 576px) {
+    .hidden-sm, .hidden-xs{
+        display: none!important;
+    }
+    .card-flyer{
+        width: 80%;
+    }
+    .swiper-slide{
+        display: flex!important;
+        align-items: center!important;
+        justify-content: center!important;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after{
+        font-size: 1.4rem!important;
+    }
+    .selected_activity{
+        min-height: 200px!important;
+    }
+        .tripplaner-contain__content {
+            padding: 0;
+       }
+       .tripplaner-contain__img {
+        width: 95%;
+   }
+   .tripplaner-contain__button {
+    width: 100%;
+}
+.carousel-caption h4 {
+    font-size: 18px;
+  }
+  .carousel-caption h1 {
+    font-size: 20px;
+  }
+
+   }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    
+}
+@media screen and (max-height: 500px) and (min-width: 992px) {
+    .tripplaner-contain {
+        height: 350px;
+   }
+   .tripplaner-contain__img {
+    height: 270px;
+}
+}
+@media screen and (max-width: 768px) {
+    .stories-wrapper .c-preview{
+        width: 45%;
+        margin: 0.5rem;
+    }
+    .tripplaner-contain {
+        min-height: 500px;
+        height: auto;
+        margin: 180px auto;
+   }
+    .tripplaner-contain__item {
+        flex-direction: column;
+   }
+   .tripplaner-contain__img {
+    transform: translateY(-50%);
+    width: 90%;
+}
+.tripplaner-contain__content {
+    margin-top: -80px;
+    text-align: center;
+    padding: 0 30px;
+}
+.tripplaner-contain__pagination.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin: 0 5px;
+}
+.tripplaner-contain__pagination .swiper-pagination-bullet-active {
+    height: 11px;
+    width: 30px;
+}
+.tripplaner-contain__pagination {
+    transform: translateX(-50%);
+    left: 50% !important;
+    top: 205px;
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+   
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .selected_activity{
+        min-height: 500px!important;
+    }
+    /* .event-container{
+        margin: 5rem;
+    } */
+    .navbar-expand-custom {
+	    -ms-flex-flow: row nowrap;
+	    flex-flow: row nowrap;
+	    -ms-flex-pack: start;
+	    justify-content: flex-start;
+	}
+	.navbar-expand-custom .navbar-nav {
+	    -ms-flex-direction: row;
+	    flex-direction: row;
+	}
+	.navbar-expand-custom .navbar-toggler {
+	    display: none;
+	}
+	.navbar-expand-custom .navbar-collapse {
+	    display: -ms-flexbox!important;
+	    display: flex!important;
+	    -ms-flex-preferred-size: auto;
+	    flex-basis: auto;
+	}
+}
+@media screen and (max-width: 992px) {
+    .tripplaner-contain {
+        max-width: 680px;
+        height: 400px;
+   }
+}
+@media (max-width: 991px){
+    #navbarSupportedContent ul li a{
+		padding: 12px 30px;
+	}
+	.hori-selector{
+		margin-top: 0px;
+		margin-left: 10px;
+		border-radius: 0;
+		border-top-left-radius: 25px;
+		border-bottom-left-radius: 25px;
+	}
+	.hori-selector .left,
+	.hori-selector .right{
+		right: 10px;
+	}
+	.hori-selector .left{
+		top: -25px;
+		left: auto;
+	}
+	.hori-selector .right{
+		bottom: -25px;
+	}
+	.hori-selector .left:before{
+		left: -25px;
+		top: -25px;
+	}
+	.hori-selector .right:before{
+		bottom: -25px;
+		left: -25px;
+	}
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    
+   
+
+}

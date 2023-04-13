@@ -1,0 +1,21 @@
+
+     [
+        {
+            "id": "card0",
+            "image": "assets/isar.jpg",
+            "place": "isar",
+            "duration": "2-6 Hours",
+            "gallerylink": "fgdfg",
+            "opening": "10:00 - 15:00",
+            "blogger": "blogger123"
+        },
+        {
+            "id": "card0",
+            "image": "assets/isar.jpg",
+            "place": "isar",
+            "duration": "2-6 Hours",
+            "gallerylink": "fgdfg",
+            "opening": "10:00 - 15:00",
+            "blogger": "blogger123"
+        }
+    ]
